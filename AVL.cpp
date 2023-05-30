@@ -312,11 +312,3 @@ NO* buscarElementoArvoreComPai(NO* no, int valor, NO*& pai)
 	}
 	return NULL;
 }
-
-
-
-
-
-
-
-
